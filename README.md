@@ -14,7 +14,7 @@
     pip3 install --upgrade -r requirements.txt
     
     
-### Starting the Server
+### Starting Server
     
     python3 server.py
     
