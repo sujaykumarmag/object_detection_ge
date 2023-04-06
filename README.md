@@ -3,8 +3,8 @@
 
 ## Installation Procedure
 
-    git clone https://github.com/sujaykumarmag/CSE4020.git
-    cd CSE4020
+    git clone https://github.com/sujaykumarmag/object_detection_ge.git
+    cd object_detection_ge
     
 ### Configuring Server
     
