@@ -41,11 +41,13 @@ This project focuses on rooftop segmentation using Google Earth (GE) imagery. Le
     
 - `requirements.txt is added`
 
-## Results
-
-[![Watch the video](results.png)](results.mp4)
 
 To install the packages
 
     pip install -r requirements.txt
 
+
+
+## Results
+
+[![Watch the video](results.png)](results.mp4)
