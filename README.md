@@ -1,7 +1,7 @@
 
 # Rooftop Segmentation using Google Earth (GE)
 
-![Rooftop Segmentation](thumbnail.png)
+![Rooftop Segmentation](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F0*vuHNrs-aEbGxWXd5&tbnid=5aT-LfS1zzIhDM&vet=12ahUKEwjZnfuShvuAAxXcz6ACHWE8BCgQMygHegQIARBk..i&imgrefurl=https%3A%2F%2Ftowardsdatascience.com%2Fusing-image-segmentation-to-identify-rooftops-in-low-resolution-satellite-images-c791975d91cc&docid=ZSSWnSZHnFJIrM&w=1400&h=525&q=rooftop%20segmentation%20using%20Google%20Earth&client=safari&ved=2ahUKEwjZnfuShvuAAxXcz6ACHWE8BCgQMygHegQIARBk)
 
 This project focuses on rooftop segmentation using Google Earth (GE) imagery. Leveraging geo-spatial data, Tensorflow, and Google Cloud Platform (GCP), the project aims to facilitate advanced drone delivery methodologies and conduct comprehensive data analysis research.
 
