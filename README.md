@@ -13,6 +13,7 @@ This project focuses on rooftop segmentation using Google Earth (GE) imagery. Le
 - [Installation](#installationprocedure)
 - - [Configuring Server and Client](#configuringserver)
 - [Usage](#usage)
+- [Results](#results)
 
 
 ## Introduction
