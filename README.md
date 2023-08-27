@@ -5,6 +5,16 @@
 
 This project focuses on rooftop segmentation using Google Earth (GE) imagery. Leveraging geo-spatial data, Tensorflow, and Google Cloud Platform (GCP), the project aims to facilitate advanced drone delivery methodologies and conduct comprehensive data analysis research.
 
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installationprocedure)
+- - [Configuring Server and Client](#installationprocedure)
+- [Usage](#usage)
+
+
 ## Features
 
 - Utilizes Google Cloud Platform (GCP) for scalable processing.
@@ -42,10 +52,15 @@ This project focuses on rooftop segmentation using Google Earth (GE) imagery. Le
 - `requirements.txt is added`
 
 
-To install the packages
+### To install the packages
 
     pip install -r requirements.txt
+    
+## Usage
 
+1. **Set up your Google Cloud Platform credentials for access to GCP services.**
+
+2. **Run the rooftop segmentation script.**
 
 
 ## Results
